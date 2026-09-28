@@ -1,0 +1,6 @@
+{
+  "name": "SpatialDrop",
+  "description": "Spatial gesture file transfer app using CameraX and MediaPipe on-device hand tracking to pinch-to-grab and open-palm-to-receive photos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
